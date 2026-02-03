@@ -27,7 +27,8 @@ class ProfileCard extends StatelessWidget {
                     ),
                   ],
                 );
-              } else {
+              } 
+              else {
                 return Column(
                   // narrow layout
                   mainAxisSize: MainAxisSize.min,
